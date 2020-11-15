@@ -10,3 +10,4 @@ sudo apt-get update
 sudo apt-get install code -y
 
 sudo apt install git mc docker.io zsh
+sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
